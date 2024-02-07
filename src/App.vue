@@ -27,6 +27,7 @@
     background: #f7f7f5;
     margin: 0;
     padding: 0;
+    background: #071d16;
   }
   #app {
     font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -49,11 +50,11 @@
     transform: translate(-50%,-50%); */
 
     display: block;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     aspect-ratio: 1/1;
 
-    background: #071d16;
+    
   }
 
   .sun-container {
